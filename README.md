@@ -45,7 +45,7 @@ The project is structured in the following syntax (root is the root directory of
 See below all availables `package.json` scripts:
   - `yarn dev` start your application in development mode, with [nodemon](https://nodemon.io/) to restart on changes.
   
-  - `yarn build` build your application to production mode, with [babel](https://babeljs.io/) parsing (ES6 to ES5). Pre-scripts: `yarn lint` and `yarn test`.
+  - `yarn build` build your application to production mode, with [babel](https://babeljs.io/) parsing (ES6 to ES5). Pre-scripts: `yarn lint`.
   
   - `yarn test` run all test files matched by the pattern `*.test.js`. [See more](https://jestjs.io/).
   
