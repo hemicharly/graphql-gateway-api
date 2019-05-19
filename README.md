@@ -16,7 +16,7 @@
 	- [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 4. Clone this repository
-`git clone --depth=1 https://github.com/hemicharly/graphql-gateway-api.git`
+`git clone https://github.com/hemicharly/graphql-gateway-api.git`
 
 5. Install the project dependencies
 `yarn`
@@ -24,8 +24,8 @@
 6. Delete `.git` folder to disassociate yourself from this project.
 
 7. Use for this example the microservices A and B, clone the repositories
-`git clone --depth=1 https://github.com/hemicharly/graphql-microservicesA.git`
-`git clone --depth=1 https://github.com/hemicharly/graphql-microservicesB.git`
+`git clone https://github.com/hemicharly/graphql-microservicesA.git`
+`git clone https://github.com/hemicharly/graphql-microservicesB.git`
 
 ####    Folder struct
 
