@@ -12,7 +12,8 @@ import getIntrospectSchema from './introspection'
 
 const endpoints = [
   'http://localhost:4002/graphql',
-  'http://localhost:4003/graphql'
+  'http://localhost:4003/graphql',
+  'http://localhost:4004/graphql'
 ]
 
 const gatewayAPI = async () => {
