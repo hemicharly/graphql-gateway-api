@@ -23,6 +23,10 @@
 
 6. Delete `.git` folder to disassociate yourself from this project.
 
+7. Use for this example the microservices A and B, clone the repositories
+`git clone --depth=1 https://github.com/hemicharly/graphql-microservicesA.git`
+`git clone --depth=1 https://github.com/hemicharly/graphql-microservicesB.git`
+
 ####    Folder struct
 
 The project is structured in the following syntax (root is the root directory of your project):
