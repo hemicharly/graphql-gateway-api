@@ -26,6 +26,7 @@
 7. Use for this example the microservices A and B, clone the repositories
 - `git clone https://github.com/hemicharly/graphql-microservicesA.git`
 - `git clone https://github.com/hemicharly/graphql-microservicesB.git`
+- `git clone https://github.com/hemicharly/graphql-gateway-rest-api.git`
 
 ####    Folder struct
 
