@@ -48,7 +48,7 @@
     "graphql": "^14.3.0",
     "graphql-tools": "^4.0.4",
     "helmet": "^3.18.0",
-    "knex": "^0.16.5",
+    "knex": "^0.19.5",
     "merge-graphql-schemas": "^1.5.8",
     "morgan": "^1.9.1",
     "pg": "^7.11.0",
