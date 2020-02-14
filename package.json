@@ -34,7 +34,7 @@
     "jest": "^24.7.1",
     "nodemon": "^1.18.11",
     "standard": "^12.0.1",
-    "yarn": "^1.15.2"
+    "yarn": "^1.22.0"
   },
   "dependencies": {
     "apollo-link-http": "^1.5.14",
